@@ -1,10 +1,6 @@
 # damage-calc
 [![CircleCI](https://circleci.com/gh/adoptyano/damage-calc-4005-v2-yarn-jest
-.svg?style=svg)](https://circleci.com/gh/adoptyano/damage-calc-4005-v2-yarn-jest
-)
-
-[![CircleCI](https://circleci.com/<VCS>/<adoptyano/damage-calc-4005-v2-yarn-jest
-.svg?style=svg&circle-token=b28738fe0321dd4bd401760facd9e2c1cb78fece](<LINK>)
+.svg?style=svg)](https://circleci.com/gh/adoptyano/damage-calc-4005-v2-yarn-jest)
 
 
 このモジュールでは、ダメージ計算を行うことができます。  
